@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Offerte Amazon</title>
+    <title>Offerte Amazon con Affiliazione</title>
     <link>https://www.amazon.it</link>
-    <description>Le migliori offerte su Amazon in tempo reale</description>
+    <description>Le migliori offerte Amazon in tempo reale - con link affiliato amazonadvic08-21</description>
     <language>it</language>
-    <lastBuildDate>Sat, 03 May 2025 10:00:00 +0000</lastBuildDate>
-    
-    <!-- Primo feed item -->
+    <lastBuildDate>Sat, 03 May 2025 22:22:00 +0000</lastBuildDate>
+
     <item>
       <title>Offerta su Televisore Samsung 4K</title>
-      <link>https://www.amazon.it/dp/B09JZZJ8Z5</link>
-      <description>Un incredibile sconto del 30% su questo televisore Samsung 4K!</description>
-      <pubDate>Sat, 03 May 2025 08:00:00 +0000</pubDate>
+      <link>https://www.amazon.it/dp/B09JZZJ8Z5?tag=amazonadvic08-21</link>
+      <description><![CDATA[Un incredibile sconto del 30% su questo televisore Samsung 4K!]]></description>
+      <category>TV</category>
+      <pubDate>Sat, 03 May 2025 22:22:00 +0000</pubDate>
       <guid>https://www.amazon.it/dp/B09JZZJ8Z5</guid>
     </item>
-    
-    <!-- Secondo feed item -->
+
     <item>
       <title>Smartphone Xiaomi con 5G in offerta</title>
-      <link>https://www.amazon.it/dp/B08X1XZJ92</link>
-      <description>Scopri il nuovo smartphone Xiaomi con supporto 5G, ora sconto del 20%!</description>
-      <pubDate>Sat, 03 May 2025 09:00:00 +0000</pubDate>
+      <link>https://www.amazon.it/dp/B08X1XZJ92?tag=amazonadvic08-21</link>
+      <description><![CDATA[Scopri il nuovo smartphone Xiaomi con supporto 5G, ora sconto del 20%!]]></description>
+      <category>Smartphone</category>
+      <pubDate>Sat, 03 May 2025 22:23:00 +0000</pubDate>
       <guid>https://www.amazon.it/dp/B08X1XZJ92</guid>
     </item>
 
-    <!-- Terzo feed item -->
     <item>
       <title>Offerta su cuffie Bluetooth Sony</title>
-      <link>https://www.amazon.it/dp/B08X2KBBVG</link>
-      <description>Le cuffie Sony Bluetooth sono scontate del 25%! Offerta imperdibile!</description>
-      <pubDate>Sat, 03 May 2025 09:30:00 +0000</pubDate>
+      <link>https://www.amazon.it/dp/B08X2KBBVG?tag=amazonadvic08-21</link>
+      <description><![CDATA[Le cuffie Sony Bluetooth sono scontate del 25%! Offerta imperdibile!]]></description>
+      <category>Audio</category>
+      <pubDate>Sat, 03 May 2025 11:45:00 +0000</pubDate>
       <guid>https://www.amazon.it/dp/B08X2KBBVG</guid>
     </item>
   </channel>
